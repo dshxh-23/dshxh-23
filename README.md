@@ -31,7 +31,7 @@ I enjoy programming, exploring the latest technology, building projects, and sol
 
 ### Certifications / Achievements 😎
 - Completed Google's Gen AI Study Jam 2024
-- Completed NPTEL online certification for the course "Fundamentals of Object Oriented Programming" with a consolidated score of 88%
+- Completed NPTEL online certification for "Fundamentals of Object Oriented Programming" with a consolidated score of 88%
 - Reached round 3 in several hackathons
 - Completed CS50's Introduction to Programming with python (CS50P)
 - And much more at: [Certificates-and-Achievements](https://github.com/dshxh-23/Certificates-and-Achievements)
