@@ -25,6 +25,7 @@ I enjoy programming, exploring the latest technology, building projects, and sol
 
 ### Popular Repos 🌟
 - [Tic-Tac-Flow](https://github.com/dshxh-23/Tic-Tac-Flow): The classical Tic-Tac-Toe game with a twist!
+- [CLI Password Manager](https://github.com/dshxh-23/pwd-manager): A CLI Password manager to securely store all your passwords
 - [House-Price-Prediction](https://github.com/dshxh-23/House-Price-Prediction-ML): My first ML project and also the first one using Jupyter Notebook. 
 - [C++ Tutorial Repository](https://github.com/dshxh-23/Cpp-Tutorial): A well-organised tutorial for learning C++
 - [Python Programs](https://github.com/dshxh-23/python-programs): A place to dump all my small python project/problem solutions.
