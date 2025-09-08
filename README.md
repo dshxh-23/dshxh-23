@@ -5,7 +5,7 @@
 ## About Me 🙋‍♂️
 I’m a Computer Science and Engineering (CSE) student at **SRM University, Kattankulathur**, pursuing a specialization in **Artificial Intelligence and Machine Learning** (AIML). I'll be graduating with B.Tech degree in 2028.
 
-I enjoy programming, exploring the latest technology, building projects, and solving real-world problems through code. I’m also fascinated by theoretical physics, with a particular interest in the strange and mind-bending world of quantum physics 🧠. I'm a cricket enthusiast and have a special place in my heart for Test cricket 🏏. In my downtime, I unwind with sitcoms like Friends (my favorite!) and enjoy gripping US crime/drama series. I'm also a big fan of GoT! 🎬
+I enjoy programming, exploring the latest technology, building projects, and solving real-world problems through code. I love reading about theoritical physics, more specifically, about quantum mechanics. I'm a cricket enthusiast with a special place in my heart for Test cricket. I also love binge-watching sitcoms or sometimes, US crime/drama series.
 
 ---
 ## Let's Get Technical 👨‍💻
@@ -19,11 +19,11 @@ I enjoy programming, exploring the latest technology, building projects, and sol
 - Working knowledge of linux (setting up dual boot / with wsl)
 
 ### What I'm learning 🌱
-- Machine Learning from YouTube (Stanford CS229 by Andrew Ng).
-- OpenCV and many other such python libraries.
-- Core mathematical concepts to build a strong base for modern machine learning algorithms.
+- Machine Learning (By Andrew Ng)
+- Learning maths for ML - linear algebra, calculus, statistics, probablity 
+- DSA - C, C++
 
-### Popular Repos 🌟
+### Some Random Repos 🌟
 - [Tic-Tac-Flow](https://github.com/dshxh-23/Tic-Tac-Flow): The classical Tic-Tac-Toe game with a twist!
 - [CLI Password Manager](https://github.com/dshxh-23/pwd-manager): A CLI Password manager to securely store all your passwords
 - [House-Price-Prediction](https://github.com/dshxh-23/House-Price-Prediction-ML): My first ML project and also the first one using Jupyter Notebook. 
